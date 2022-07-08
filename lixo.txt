@@ -1,0 +1,95 @@
+amiga, o que apaguei aqui é o que ja pus no docs!
+
+Funcionalidade do Sistema:
+Entrega SprinSprintt-1 
+
+(ATRIBUTO COMO TÍTULO)
+Aluno:
+Requisitos atendidos:
+
+Artefatos da Funcionalidade
+• 
+• 
+• 
+• 
+
+Instruções de Acesso
+1.
+2.
+3.
+4.
+
+
+Funcionalidade do Sistema:
+Entrega Sprintt-1 
+
+Template
+Aluno: Maria Cecilia Parreiras Santos Henriques
+Requisitos atendidos:
+
+Artefatos da Funcionalidade
+• Página Inicial (HTML e CSS)
+• Página de Pesquisa (HTML e CSS)
+• Página de Resultados de Pesquisa (HTML e CSS)
+• Página Contato (HTML e CSS)
+
+Instruções de Acesso
+1. Acessar o site publicado via Replit (https://WebNeto.ceciliapsh.repl.co)
+2. Checar a responsividade em diversos displays via 'inspecionar'
+3. Navegar entre páginas por meio dos botões e objetos clicáveis
+
+Funcionalidade do Sistema:
+Entrega Sprint-2
+
+Comentários
+Aluno: Maria Cecília Parreiras Santos Henriques
+Requisitos atendidos:
+
+Artefatos da Funcionalidade
+• 
+• 
+• 
+• 
+
+Instruções de Acesso
+1.
+2.
+3.
+
+
+Sprint 1 
+Aluno: Nathalia Tenaglia 
+Requisitos atendidos: PREENCHER ISSO AQUI 
+Artefatos da Funcionalidade: 
+Cadastro e Login de Administradores ao sistema do WebNeto
+Instruções de Acesso: 
+Ao Cadastro:
+1. Acessar a Funcionalidade diretamente pelo Link: XXXXXXXXXXXXXXX
+2.Clicar em “Novo usuário”
+3. Inserir dados requeridos para cadastro
+4.Inserir senhas diferentes
+5. Confirmar dados
+
+
+Ao login:
+1. Acessar a Funcionalidade diretamente pelo Link: XXXXXXXXXXXXXXXD
+2.Inserir o usuário e senhas corretos
+3.Confirmar dados
+4.Aguardar conferência de dados
+
+
+Sprint 2 
+Aluno: Nathalia Tenaglia
+Requisitos atendidos: PREENCHER ISSO AQUI
+
+Artefatos da Funcionalidade: 
+Formulário de envio de mensagem via e-mail à equipe do WebNeto contendo nome, email, telefone e Mensagem.
+
+Instruçoes de Acesso 
+1. Inserir os dados requeridos (nome, e-mail, telefone e mensagem) nos campos indicados
+2.Clicar no botão “Enviar”
+
+
+
+6. Avaliação da Solução
+6.1 Plano de Testes de Software 
